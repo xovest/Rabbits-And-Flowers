@@ -6,5 +6,5 @@ public:
 	Timer();
 	float getTime();
 private:
-	float startTime;
+	Uint32 startTime;
 };
