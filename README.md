@@ -5,8 +5,8 @@ a simple 2-player 2D game made in C++ using the SDL library
 
 # Run
 1. Open *SDL_GameTemplate.sln* in Visual Studio and compile the project
-2. Put all dll files from *DLL* folder in *Release* (or *Debug*) folder in project solution folder
-- if an error occurs, try to copy the *assets* folder from *SDL_GameTemplate/assets* to *Release* (or *Debug*) folder in project solution folder
+2. Put all dll files from *DLL* folder in *Debug* folder in project solution folder
+- if an error occurs, try to copy the *assets* folder from *SDL_GameTemplate/assets* to *Debug* folder in project solution folder
 - you can also change the settings like speed or size in the *Configuration.h* file if you want to
 
 # Gameplay
