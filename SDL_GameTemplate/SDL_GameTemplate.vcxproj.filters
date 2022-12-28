@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="assets">
+      <UniqueIdentifier>{46c0120e-79ea-41af-8539-420efffde2f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{00fc70bd-5279-4493-a191-009f2298dd37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{56485f79-b858-4702-8df0-9d493aa46e70}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Window.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Carrot.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Flower.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Flower_Dead.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Flower_Inverted.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Flower_Mad.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Flower_Slow.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Flower_Speed.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Font.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Random.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceManager.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="State_End.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="State_Gameplay.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="State_Menu.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Stats.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Window.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Carrot.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Configuration.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Flower.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Flower_Dead.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Flower_Inverted.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Flower_Mad.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Flower_Slow.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Flower_Speed.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Font.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="GameState.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Random.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="State_End.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="State_Gameplay.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="State_Menu.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Stats.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
