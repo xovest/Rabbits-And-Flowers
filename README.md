@@ -40,14 +40,14 @@ The game ends when one of the rabbits score 3 points, but every single time some
 Based on the number of victories the player has:
 | Object        | Effects                                | 0 Victories | 1 Victory | 2 Victories |
 | ------------- | -------------------------------------- | ----------- | --------- | ----------- |
-| Rose          | Lose game                              |             |           |             |
-| Carrot        | Score 1 Point                          |             |           |             |
-|               | Need ... to win the round              | 10          | 20        | 30          |
-|               | Increase enemy speed by ...            | 0           | 1         | 2           |
-| Green flower  | Get poisoned for 10s                   |             |           |             |
-| Blue flower   | Reduce player speed by ...             | 1           | 2         | 3           |
-|               | Increase time left from poison by ...s | 6           | 3         | 0           |
+| Rose          | Lose game                              | -           | -         | -           |
+| Carrot        | Score 1 Point                          | -           | -         | -           |
+| -             | Need ... to win the round              | 10          | 20        | 30          |
+| -             | Increase enemy speed by ...            | 0x          | 1x        | 2x          |
+| Green flower  | Get poisoned for 10s                   | -           | -         | -           |
+| Blue flower   | Reduce player speed by ...             | 1x          | 2x        | 3x          |
+| -             | Increase time left from poison by ...s | 6           | 3         | 0           |
 | Pink flower   | Invert player controls for ...s        | 2           | 4         | 8           |
-|               | Invert enemy controls for ...s         | 4           | 2         | 0           |
-| Yellow flower | Lose ... Points                        | 1           | 2         | 3           |
-|               | Increase player speed by ...           | 3           | 2         | 1           |
+| -             | Invert enemy controls for ...s         | 4           | 2         | 0           |
+| Yellow flower | Lose ... points                        | 1           | 2         | 3           |
+| -             | Increase player speed by ...           | 3x          | 2x        | 1x          |
