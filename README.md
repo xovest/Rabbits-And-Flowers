@@ -36,6 +36,10 @@ The game ends when one of the rabbits score 3 points, but every single time some
 - Jack controls: Arrow keys
 - Jill controls: WASD keys
 
+# Features
+- If none of the players win the current round before the timer hits 60s, then time is going to be up, no player gets any point and the round is just going to start over.
+- If you suddenly exit during the game, the progress is saved and the moment you come back the score will be the same as before you quit the game. For example, if the score is 2:1 and you suddenly quit, when you run the program again the score is still 2:1.
+
 # Objects
 Based on the number of victories the player has:
 | Object        | Effects                                | 0 Victories | 1 Victory | 2 Victories |
