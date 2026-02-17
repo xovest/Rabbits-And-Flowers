@@ -1,7 +1,7 @@
 # Rabbits-And-Flowers
 a simple 2-player 2D game made in C++ using the SDL library
 
-<a href="url"><img src="https://scontent.fias1-1.fna.fbcdn.net/v/t1.15752-9/320961861_521010643144654_5536922883851198985_n.png?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=TzByljFe0rIAX-I9uKm&_nc_ht=scontent.fias1-1.fna&oh=03_AdS5kiV7fRcT5ALCbbABKe8N4YEEdDeN-ssF8C3fIwpcDA&oe=63D34C83" align="center" height="540" width="720" border="black"></a>
+![Rabbits and Flowers Game](https://raw.githubusercontent.com/xovest/Rabbits-And-Flowers/main/rabbitandflowers.png)
 
 # Run
 1. Open *SDL_GameTemplate.sln* in Visual Studio and compile the project
